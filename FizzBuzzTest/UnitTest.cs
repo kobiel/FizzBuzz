@@ -22,22 +22,19 @@ namespace FizzBuzz
         [TestMethod]
         public void TestMethod1()
         {
-            string actual = FizzBuzz(1);
-            Assert.AreEqual<string>("1", actual);
+            Assert.AreEqual<string>("1", FizzBuzz(1));
         }
 
         [TestMethod]
         public void TestMethod2()
         {
-            string actual = FizzBuzz(3);
-            Assert.AreEqual<string>("Fizz", actual);
+            Assert.AreEqual<string>("Fizz", FizzBuzz(3));
         }
 
         [TestMethod]
         public void TestMethod3()
         {
-            string actual = FizzBuzz(5);
-            Assert.AreEqual<string>("Buzz", actual);
+            Assert.AreEqual<string>("Buzz", FizzBuzz(5));
         }
     }
 }
