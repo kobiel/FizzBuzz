@@ -14,9 +14,9 @@ namespace FizzBuzz
 
         }
 
-        public int FizzBuzz(int num)
+        public string FizzBuzz(int num)
         {
-            return num;
+            return num.ToString();
         }
     }
 }
