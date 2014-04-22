@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace FizzBuzz
 {
+
     public class Prog
     {
         static void Main(string[] args)
         {
 
+        }
+
+        public int FizzBuzz(int num)
+        {
+            return num;
         }
     }
 }
