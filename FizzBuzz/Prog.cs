@@ -16,7 +16,7 @@ namespace FizzBuzz
 
         public int FizzBuzz(int num)
         {
-            return num;
+            return 0;
         }
     }
 }
