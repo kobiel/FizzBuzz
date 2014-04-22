@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzTest
 {
-    class Prog
+    public class Prog
     {
-        static void main(string[] args)
+        static void Main(string[] args)
         {
 
         }
