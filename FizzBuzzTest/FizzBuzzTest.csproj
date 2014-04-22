@@ -6,7 +6,7 @@
     <ProjectGuid>{1610FDC7-DE06-4B46-80A8-7BA3EA40F75F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FizzBuzzTest</RootNamespace>
+    <RootNamespace>FizzBuzz</RootNamespace>
     <AssemblyName>FizzBuzzTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

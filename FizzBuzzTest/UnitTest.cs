@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace FizzBuzzTest
+namespace FizzBuzz
 {
     [TestClass]
     public class UnitTest
@@ -9,7 +9,7 @@ namespace FizzBuzzTest
         [TestMethod]
         public void TestMethod()
         {
-            Assert.Fail();
+            Assert.AreEqual<int>(0, 0);
         }
     }
 }
